@@ -26,8 +26,9 @@
 #include "esp_log.h"
 #include "i2c_bus.h"
 #include "es8388.h"
-#include "board.h"
+#include "board_pins_config.h"
 #include "audio_volume.h"
+#include "board_def.h"
 
 #ifdef CONFIG_ESP_LYRAT_V4_3_BOARD
 #include "headphone_detect.h"

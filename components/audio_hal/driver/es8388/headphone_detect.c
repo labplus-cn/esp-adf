@@ -32,7 +32,7 @@
 #include "driver/gpio.h"
 #include "esp_log.h"
 #include "es8388.h"
-#include "board.h"
+// #include "board.h"
 
 
 #ifdef CONFIG_ESP_LYRAT_V4_3_BOARD
